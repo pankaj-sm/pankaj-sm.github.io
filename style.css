@@ -1,0 +1,68 @@
+header {
+    background-color:#DAF7A6;
+    color: #FF5733;
+    height: 50px;
+    position: relative ;
+  }
+  
+  header a {
+    color: #FF5733;
+    font-family: 'Pacifico';
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #DAF7A6;
+    color: #FF5733;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  header li {
+    display: inline;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  main {
+    background-color: #DAF7A6;
+    color: #FF5733;
+    padding: 10px;
+  }
+  
+  main h1 {
+    font-family: 'Satisfy';
+    text-align: center;
+    font-size: 75px;
+  }
+  
+  main h2 {
+    font-family: 'Pacifico';
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+  }
+  
+  main p {
+    font-family: 'Rancho';
+    font-size: 30px;
+  }
+  
+  main table {
+    table-layout: fixed;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+  }
+  
+  main table thead {
+    font-weight: bold;
+  }
+  
+  td, li {
+    padding: 10px;
+    font-size: 30px;
+    font-family: 'Rancho';
+  }
